@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding-left:500px;
+    font-size: large;
+    box-sizing: border-box;
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+    background-blend-mode: luminosity;
+}
+
+
+
+canvas{
+    position: absolute;  
+}
